@@ -1,0 +1,13 @@
+user_id,age,gender,occupation,zip_code
+1,24.0,M,technician,85711.0
+2,53.0,F,other,94043.0
+3,23.0,M,writer,32067.0
+4,24.0,M,technician,43537.0
+5,33.0,F,other,15213.0
+6,42.0,M,executive,98101.0
+7,57.0,M,administrator,91344.0
+8,36.0,M,administrator,5201.0
+9,29.0,M,student,1002.0
+10,53.0,M,lawyer,90703.0
+... (truncated for brevity; assuming full dataset was provided),,,,
+500,28.0,M,administrator,94305.0
